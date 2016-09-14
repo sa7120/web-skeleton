@@ -23,6 +23,10 @@ nav {
     background-color: #eeeeee;
 }
 
+#content {
+    margin-top: 150px;
+}
+
 /* Add more nav bar attributes and styling here */
 
 /* Add scroll link attributes here */
